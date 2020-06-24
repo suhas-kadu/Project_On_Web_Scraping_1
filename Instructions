@@ -1,1 +1,6 @@
-
+You can scrape any product's name, price and discount with this code .
+You just need to change the url, the name of the classes and need to do some minor changes.
+For Sending mail, first Turn ON your 'Less secure app access' in your google account's settings from which you are going to send the mail.
+Wait for some time for the setting to be updated.
+Once its updated then enter your email id and password in the code and then run the program if its showing error wait for some time or try with another account.
+Don't forget to get Turn OFF your 'Less secure app access' in your google account's setting afterwards.
